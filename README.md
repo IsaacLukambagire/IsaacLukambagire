@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning data analytics
 - 💞️ I’m looking to collaborate on data analytics projects
-- 📫 How to reach me : isaaclukambagire@gmail.com
+- 📫 How to reach me: isaaclukambagire@gmail.com
 
 <!---
 IsaacLukambagire/IsaacLukambagire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
