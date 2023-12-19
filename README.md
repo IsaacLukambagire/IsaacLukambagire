@@ -3,7 +3,7 @@
 # 👋 I'm Isaac, welcome to my GitHub page!
 - 👀 I’m interested in various datasets, data analytics, data visualisation, artificial intelligence and machine learning 
 - 🌱 I’m currently learning remote image processing, data analytics, artificial intelligence and machine learninig 
-- 💞️ I’m looking to collaborate in data analytics and visualisation, artificial intelligence and machine learning related sustaianability projects
+- 💞️ I’m looking to collaborate in data analytics and visualisation, artificial intelligence and machine learning projects related to sustainability 
 - 📫 How to reach me: isaaclukambagire@gmail.com | Let's connect
   
 <!---
