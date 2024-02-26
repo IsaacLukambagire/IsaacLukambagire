@@ -18,4 +18,5 @@ You can click the Preview link to take a look at your changes.
 ![image](https://github.com/IsaacLukambagire/IsaacLukambagire/assets/135164216/550ff947-b722-4ef8-9f86-89233670e771)
 ![image](https://github.com/IsaacLukambagire/IsaacLukambagire/assets/135164216/6ef3068b-6067-411e-9ed0-55a55576da8f)
 ![image](https://github.com/IsaacLukambagire/IsaacLukambagire/assets/135164216/42aed050-1850-4dd1-b8c9-1046d1bfcac2)
-![nasa-open-science](https://github.com/IsaacLukambagire/IsaacLukambagire/assets/135164216/79364409-f5b6-4f9a-ab05-701338b426fe)
+![nasa-open-science (1)](https://github.com/IsaacLukambagire/IsaacLukambagire/assets/135164216/0e21c28b-6336-4d4c-b124-5ef031d3fca3)
+
