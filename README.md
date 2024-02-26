@@ -17,6 +17,7 @@ You can click the Preview link to take a look at your changes.
 ![image](https://github.com/IsaacLukambagire/IsaacLukambagire/assets/135164216/6ef3068b-6067-411e-9ed0-55a55576da8f)
 ![image](https://github.com/IsaacLukambagire/IsaacLukambagire/assets/135164216/42aed050-1850-4dd1-b8c9-1046d1bfcac2)
 ![image](https://github.com/IsaacLukambagire/IsaacLukambagire/assets/135164216/1a799d24-25c7-40fd-bffa-4fa01d085fbc)
-![image](https://www.credly.com/badges/6a8a9a7b-88ce-459b-b7cf-9b6b1b335fe4/public_url)
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6a8a9a7b-88ce-459b-b7cf-9b6b1b335fe4" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 
